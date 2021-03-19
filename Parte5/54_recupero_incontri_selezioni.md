@@ -33,7 +33,10 @@ Da una nave piumata dovrebbe uscire l'ultimo candidato, ma si sentono solo dei p
 Mentre BLARGH sfida Porter, dal fondo del ponte, una sesta nave si appoggia sul ponte, schiacciando quella del Camus. Il gigante, infastidito, si avvicina al portellone.
 
 Una comunicazione giunge dalla nave appena approdata. 
-"Il pennuto parla di codice d'onore tra pirati? Anche voi al tavolo la penserete così". Del fumo fuoriesce dal portellone.
+
+>"Il pennuto parla di codice d'onore tra pirati? Anche voi al tavolo la penserete così".
+
+Del fumo fuoriesce dal portellone.
 
 >"Noi non siamo pirati."
 
