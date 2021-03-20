@@ -1,4 +1,4 @@
-# Riassunti della campagna
+# Riassunti
 
 ## Parte 2
  * [Dialogo con Parnassus](./Parte2/00_dialogo_con_parnassus.md)
@@ -63,6 +63,9 @@
  * [Missione abortita](./Parte5/53_missione_abortita.md)
  * [Recupero, incontri, selezioni](./Parte5/54_recupero_incontri_selezioni.md)
  * [Sole di mezzanotte](./Parte5/55_sole_di_mezzanotte.md)
+
+## Schede dei personaggi
+ * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
 
 ## Extra
  * [Progetti recuperati](./Extraextra_progetti_recuperati.md)
