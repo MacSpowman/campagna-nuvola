@@ -44,13 +44,13 @@
  * [Once a GEARS, always a GEARS](./Parte4/36_once_a_gears_always_a_gears.md)
  * [Un ultimo favore](./Parte4/37_un_ultimo_favore.md)
  * [La fine dei mecha](./Parte4/38_la_fine_dei_mecha.md)
- 
+ * [Lacrime o sangue?](./Parte4/39_lacrime_o_sangue.md)
+ * [Ultima chance](./Parte4/40_ultima_chance.md)
+ * [Odore di famiglia](./Parte4/41_odore_di_famiglia.md)
+ * [Un brutto presentimento](./Parte4/42_un_brutto_presagio.md)
+ * [Sette secondi prima della fine](./Parte4/43_sette_secondi_prima_della_fine.md)
+
  ## Parte 5
- * [Lacrime o sangue?](./Parte5/39_lacrime_o_sangue.md)
- * [Ultima chance](./Parte5/40_ultima_chance.md)
- * [Odore di famiglia](./Parte5/41_odore_di_famiglia.md)
- * [Un brutto presentimento](./Parte5/42_un_brutto_presagio.md)
- * [Sette secondi prima della fine](./Parte5/43_sette_secondi_prima_della_fine.md)
  * [Un'amara riunione](./Parte5/44_un_amara_riunione.md)
  * [Tra di noi](./Parte5/45_tra_di_noi.md)
  * [Un sacrificio necessario?](./Parte5/46_un_sacrificio_necessario.md)
@@ -62,6 +62,7 @@
  * [Corpi](./Parte5/52_corpi.md)
  * [Missione abortita](./Parte5/53_missione_abortita.md)
  * [Recupero, incontri, selezioni](./Parte5/54_recupero_incontri_selezioni.md)
+ * [Sole di mezzanotte](./Parte5/55_sole_di_mezzanotte.md)
 
 ## Extra
  * [Progetti recuperati](./Extraextra_progetti_recuperati.md)
