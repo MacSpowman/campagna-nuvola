@@ -18,7 +18,7 @@ I due si vestono e cercano una giustificazione non imbarazzante alla loro assenz
 
 Kael e Aeria lasciano la stanza, dove trovano Frei intento a sbattere ripetutamente la porta. Aeria esorta lo Sleeb a raggiungere il resto del gruppo; Kael però si accorge che qualcosa non va e prova a rassicurarlo, senza indagare oltre. Durante il viaggio in ascensore, Kael si tira fuori dalla conversazione su Noelle che gli altri due intraprendono. La Magis, pur rispettando la propria etica, ne conferma il motivo della presenza sulla nave, dovuto in parte a Frei, in parte ad Harribel. Aeria decide quindi di affiancare lo Sleeb nella selezione, spinta dalla determinazione nel proteggere Kael dai pirati con cattive intenzioni nei suoi confronti.
 
-Mentre Frei discute con Siri sulla sua somiglianza con Eleanore (giustificata da Michael cin modo molto generico), l'equipaggio si imbarca verso la nave dei GEARS.
+Mentre Frei discute con Siri sulla sua somiglianza con Eleanore (giustificata da Michael in modo molto generico), l'equipaggio si imbarca verso la nave dei GEARS.
 Restano solo Harribel, Kael, Aeria e Frei, ma quest'ultimo si accorge che 17 ha deciso di restare sulla sua nave, così va a salutarsi e a scusarsi, ma senza risposta.
 
 Giunti sulla nave dei GEARS, Kael e Frei vedono Parnassus che dirige le operazioni. All'approdo, prima ancora di chiedere di Rick e Al, si premura di ringraziare Kael per aver salvato 15, ma è altrettanto preoccupato per la presenza di Noah e di un certo Callisto, suo ex-collaboratore e amico del Monarca. Dalla conversazione, che lascia il Magis e lo Sleeb sgomenti, emerge che Felix potrebbe essere uno pseudonimo di Callisto, che non deve assolutamente ricongiungersi con il suo vecchio amico. L'uomo continua a preoccuparsi, temendo di essere in pericolo, ma si dirige nella sua cabina per tornare a lavorare sulla schermatura, contento di aver scoperto il genio incompreso di Rock. Kael, preoccupato a sua volta, va alla ricerca di Felix.
@@ -33,7 +33,10 @@ Da una nave piumata dovrebbe uscire l'ultimo candidato, ma si sentono solo dei p
 Mentre BLARGH sfida Porter, dal fondo del ponte, una sesta nave si appoggia sul ponte, schiacciando quella del Camus. Il gigante, infastidito, si avvicina al portellone.
 
 Una comunicazione giunge dalla nave appena approdata. 
-"Il pennuto parla di codice d'onore tra pirati? Anche voi al tavolo la penserete così". Del fumo fuoriesce dal portellone.
+
+>"Il pennuto parla di codice d'onore tra pirati? Anche voi al tavolo la penserete così".
+
+Del fumo fuoriesce dal portellone.
 
 >"Noi non siamo pirati."
 
