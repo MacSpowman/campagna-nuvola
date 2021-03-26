@@ -66,6 +66,7 @@
 
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
+ * [Freimaurerei](./Schede/Freimaurerei.txt)
 
 ## Extra
  * [Progetti recuperati](./Extraextra_progetti_recuperati.md)
