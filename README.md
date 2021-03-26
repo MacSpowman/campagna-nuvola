@@ -67,7 +67,8 @@
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
  * [Freimaurerei](./Schede/Freimaurerei.txt)
-
+ * [Kael Rowan](./Schede/Kael_Rowan.md)
+ 
 ## Extra
  * [Progetti recuperati](./Extraextra_progetti_recuperati.md)
  * [Questioni in sospeso](./Extraextra_questioni_in_sospeso.md)
