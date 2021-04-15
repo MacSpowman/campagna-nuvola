@@ -63,7 +63,10 @@
  * [Missione abortita](./Parte5/53_missione_abortita.md)
  * [Recupero, incontri, selezioni](./Parte5/54_recupero_incontri_selezioni.md)
  * [Sole di mezzanotte](./Parte5/55_sole_di_mezzanotte.md)
-
+ * [Il briefing](./Parte5/56_il_briefing.md)
+ * [TEMP](./Parte5/57_temp.md)
+ * [Tre gambe e uno Sleeb](./Parte5/58_tre_gambe_e_uno_sleeb.md)
+ 
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
  * [Freimaurerei](./Schede/Freimaurerei.txt)
