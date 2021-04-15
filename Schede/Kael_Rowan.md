@@ -1,20 +1,21 @@
 # KAEL ROWAN
-Alias: CARLO ROVENI, Teophrastus Iota, Jet Black
-Identità Prinz: JEFF JEFFINSON
+Alias:  Carlo Roveni, Teophrastus Iota, Jet Black, Jeff Jeffinson
 
 ## STATISTICHE
-Razza:	Magis
-Livello: 19
-HP: 147
+ * Razza:	Magis
+ * Livello: 19
+ * HP massimi: 147
 
+| | | |
+|-|-|-|
+| FOR | 18 | +4 |
+| DES | 24 | +7 |
+| COS | 28 | +9 |
+| INT | 24 | +7 |
+| SAG | 20 | +5 |
+| CAR | 25 | +7 |
 
-FOR 18 +4
-DES 24 +7
-COS 28 +9
-INT 24 +7
-SAG 20 +5
-CAR 25 +7
-
+### Bonus e tiri
 Occhio bobino: +10 al modificatore sui tiri per osservare
 
 CA PER IL CIFRARIO: 8 (1d20+SAG)
@@ -40,18 +41,18 @@ CA PER IL CIFRARIO: 8 (1d20+SAG)
 
 * Occhio meccanico migliorato:
 	* Rilevatore di movimento dentro la pupilla
-	(rileva quando la pupilla è chiusa e quando è aperta)
-	Sbattere le palpebre permette di cambiare modalità dell'occhio
+	(rileva quando la pupilla Ã¨ chiusa e quando Ã¨ aperta)
+	Sbattere le palpebre permette di cambiare modalitï¿½ dell'occhio
 	* Adattabile come quello attuale
 	* NO visione al buio
 	* 1d6 per cambiare funzione
 
-1. permette di sparare un proiettile invisibile di Glacies a colpo singolo che causa sanguinamento 5d4 + 1d4 over time.
-2. si glitcha e ti impedisce di vedere. destrezza -4 per due turni
-3. visione notturna
-4. viene controllato neuralmente tenendosi collegato alla testa con un piccolo cavo e muovendosi nello spazio al di fuori dell'orbita
-5. corto circuito. 1d4 di danni.
-6. ti permette di osservare gli organi interni delle persone. nessun tiro costituzione necessario quando si vuole agire su una persona con l'abilità mentale. 20 garantito.
+		1. permette di sparare un proiettile invisibile di Glacies a colpo singolo che causa sanguinamento 5d4 + 1d4 over time.
+		2. si glitcha e ti impedisce di vedere. destrezza -4 per due turni
+		3. visione notturna
+		4. viene controllato neuralmente tenendosi collegato alla testa con un piccolo cavo e muovendosi nello spazio al di fuori dell'orbita
+		5. corto circuito. 1d4 di danni.
+		6. ti permette di osservare gli organi interni delle persone. nessun tiro costituzione necessario quando si vuole agire su una persona con l'abilitï¿½ mentale. 20 garantito.
 
 
 * Occhio meccanico:
@@ -78,47 +79,43 @@ Gettoni: 10
 * Pezzi di glacies: 4
 * 1 pezzo di glacies rosso	(Doppiofondo del cassetto)
 
+## Vecchio inventario 
 
-Vecchio inventario:
-* Bambolina soprammobile	(STANZA GEARS)
-* Abito di ricambio 		(STANZA GEARS)
-* Foto del contatto (Henry) 	(STANZA GEARS)
-* Foto della ragazza (Mia)	(STANZA GEARS)
-* Libro della pesca		(STANZA GEARS)
-* Fogli dello studio Naga	(STANZA GEARS)
-* Rottami del casco		(STANZA GEARS)
-* 7/10 progetti recuperati
-	 + 1 bruciato (a pezzi) (STANZA GEARS)
-* Benda vecchia di Kael		(STANZA GEARS)
-* Pezzi del tablet		(MAESTRO)
-* Hard Disk rotto		(STANZA GEARS)
-* Documenti Ishtar: 		(STANZA GEARS)
-* Registratore			(STANZA GEARS)
-* Videocamera + nano-memoria con adattatore
-				(STANZA GEARS)
-* Radio GEARS
-* Bigliettino per Michael	(DATO A MIA)
-* Tablet Mist x2 rotti 		(BUTTATI)
+|Oggetto | Ultimo luogo noto |
+|:-----------------|:--------------|
+| Bambolina soprammobile	| Stanza GEARS |
+| Abito di ricambio 		| Stanza GEARS |
+| Foto del contatto (Henry) | Stanza GEARS |
+| Foto della ragazza (Mia)	| Stanza GEARS |
+| Libro della pesca			| Stanza GEARS |
+| Fogli dello studio Naga	| Stanza GEARS |
+| Rottami del casco			| Stanza GEARS |
+| 7/10 progetti recuperati + 1 bruciato (a pezzi) | Stanza GEARS |
+| Benda vecchia di Kael		| Stanza GEARS |
+| Hard Disk rotto			| Stanza GEARS |
+| Documenti Ishtar: 		| Stanza GEARS |
+| Registratore				| Stanza GEARS |
+| Videocamera + nano-memoria con adattatore | Stanza GEARS |
+| Radio GEARS 				| ??? |
+| Bigliettino per Michael	| Dato a Mia |
+| Tablet Mist x2 rotti 		| Gettati via |
+| Trenchcoat blu			| Stanza Naga |
+| Armatura con mano			| Stanza Naga |
+| Pistola dei Mist			| Stanza Naga |
+| 6 braccialetti (Gruppo di Bradley)	| Stanza Naga |
+| Radio Aeria (Inutilizzabile)	| Stanza Naga |
 
-STANZA NAGA:
-* Trenchcoat blu
-* Armatura con mano
-* Pistola dei Mist
-* 6 braccialetti (Gruppo di Bradley)
-* Radio Aeria			(INUTILIZZABILE)
-
-## Abilità e tratti
+## AbilitÃ  e tratti
 Passive:
-* Possibilità più alta che qualcuno conosca il nome di Kael
+* PossibilitÃ  piÃ¹ alta che qualcuno conosca il nome di Kael
 * Maneggiare il glacies per riparare attrezzature base
 
 Combattimento: 
 * Utilizzare un'arma a glacies al meglio, limitando lo spreco
 
 Capelli color glacies, occhi castani.
-Nell'occhio destro, una scheggia di glacies conficcata: benda. Abilità mentale compromessa per il glacies. 
+Nell'occhio destro, una scheggia di glacies conficcata: benda. AbilitÃ  mentale compromessa per il glacies. 
 
 AGGIORNAMENTI
-Abilità mentale: "Rewind"
+AbilitÃ  mentale: "Rewind"
 Capelli tinti di rosso, occhio meccanico di Automail (costruito da Michael)
-
