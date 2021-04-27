@@ -67,6 +67,8 @@
  * [TEMP](./Parte5/57_temp.md)
  * [Tre gambe e uno Sleeb](./Parte5/58_tre_gambe_e_uno_sleeb.md)
  * [Un eroe, uno scienziato e uno Sleeb entrano in un bar](./Parte5/59_un_eroe_uno_scienziato_e_uno_sleeb_entrano_in_un_bar.md)
+ * [Imperfezione](./Parte5/60_imperfezione.md)
+ 
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
  * [Freimaurerei](./Schede/Freimaurerei.txt)
