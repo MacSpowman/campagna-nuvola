@@ -14,7 +14,7 @@ Alphonse, accorgendosi dell'urlo, si accorge che qualcosa è cambiato nell'aura 
 
 Tra le urla e i gemiti di dolore, Fohen cerca di sussurrare qualcosa, mentre negli occhi si concentra moltissimo sangue. Frei prova a parlarle, ma viene afferrato flebilmente al collo.
 
-> "Non... Avvicinarti... Al Basinet... Le scorte sono centellinate e servono ormai... Solo io..."
+> "Non... Avvicinarti... Al Basineth... Le scorte sono centellinate e servono ormai... Solo io..."
 
 La ragazza perde la presa quando dice conferma il sospetto che la medicina sia solo per umani. Frei le comunica della morte di Burian per mano di BLARGHHHH quando Kael giunge sul posto. 
 
