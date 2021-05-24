@@ -24,6 +24,8 @@ Kael chiede a Electric Sheep di occuparsi delle selezioni e la ragazza manifesta
 
 Al chiede a Porter cosa sia successo. Lo Yomi, per quanto voglia tenerlo nascosto in quanto non sia nelle sue intenzioni ripeterlo, accetta a patto che non ne venga tenuto conto nelle selezioni. Il pilota parla di come sia stato separato dal proprio fratello molto tempo prima e come ogni volta che si collega a un'altra creatura questo torni in quella forma; tuttavia, non essendosi collegato alla ragazzina, non riesce a spiegarsi l'accaduto. Al ricorda dove ha già visto quel fenomeno: è ciò che succedeva alla propria mano quando era infestata dai vermi.
 
+Inizia dunque l'interrogatorio di Fohen.
+
 > "Quello che chiami Maestro è stato molto più di un semplice insegnante per noi. È stato un vero e proprio mentore, ci ha insegnato veramente tutto. Di tutta la sua classe, eravamo rimasti solo noi tre; gli altri non ce l'hanno fatta. 
 Eravamo costretti a lottare costantemente sotto la sua sorveglianza, al fine di ottenere una propria squadra d'élite per ottenere ciò che voleva. Non sapevamo nulla di questo obiettivo, ma lo assistevamo lo stesso.
 La sorella del Maestro era la nostra guida, ma l'ha persa molti anni fa. Dopo ciò che è successo con Noah, il Maestro ha preso molto a cuore la questione. Nonostante fosse nascosta bene, io e Burian la trovammo nel mondo digitale, dove è rimasta intrappolata. Ormai può solo attirare gente all'interno."
@@ -47,4 +49,4 @@ Fohen parla di Mia come parte del proprio gruppo e delle intenzioni del padre di
 Dopo che Fohen si scusa per ciò che ha fatto a Mia, Frei le chiede spiegazioni sui propri geni Kros. La ragazza sostiene dunque di essere effettivamente una Kros e, dopo ulteriori domande a riguardo, la ragazza si solleva le bende e inizia a lamentare un mal di testa, senza riuscire a spiegare se sia un esperimento del Maestro o meno. 
 Alla domanda sulla questione Basineth, Fohen si accorge che il medicinale che le è stato somministrato non è quello che aveva chiesto: ciò che la insospettisce è che la sorella del Maestro era un medico, quindi in qualche modo collegata ai medicinali.
 
-Mentre parla, la sua guancia inizia a deteriorarsi, rivelando una pelle squamosa.
+Mentre parla, Fohen si toglie la benda, sotto la quale la sua guancia inizia a deteriorarsi, rivelando una pelle squamosa, simile a quella dei Kros.
