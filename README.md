@@ -72,6 +72,7 @@
  * [TEMP](./Parte5/62_TEMP.md)
  * [Comportamenti sospetti](./Parte5/63_comportamenti_sospetti.md)
  * [Abbracci](./Parte5/64_abbracci.md)
+ * [Destino Immutabile](./Parte5/65_destino_immutabile.md)
 
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
