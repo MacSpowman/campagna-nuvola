@@ -69,7 +69,7 @@
  * [Un eroe, uno scienziato e uno Sleeb entrano in un bar](./Parte5/59_un_eroe_uno_scienziato_e_uno_sleeb_entrano_in_un_bar.md)
  * [Imperfezione](./Parte5/60_imperfezione.md)
  * [L'adunata](./Parte5/61_l_adunata.md)
- * [TEMP](./Parte5/62_TEMP.md)
+ * [Sogni e futuro](./Parte5/62_sogni_e_futuro.md)
  * [Comportamenti sospetti](./Parte5/63_comportamenti_sospetti.md)
  * [Abbracci](./Parte5/64_abbracci.md)
  * [Destino Immutabile](./Parte5/65_destino_immutabile.md)
