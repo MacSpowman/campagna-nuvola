@@ -82,3 +82,6 @@
 ## Extra
  * [Progetti recuperati](./Extraextra_progetti_recuperati.md)
  * [Questioni in sospeso](./Extraextra_questioni_in_sospeso.md)
+ 
+ 
+ ![image](./Gatto.jpg)
