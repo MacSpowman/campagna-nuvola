@@ -1,4 +1,4 @@
-# VECCHI LEGAMI
+# VECCHE CONOSCENZE
 
 Tornati in superficie, il gruppo apprende dell'omicidio di Caio e Maractus per mano di Noah nello sconcerto più totale.
 Intanto Alphonse e Mia si recano al posto in cui il primo è stato ucciso da Calpher. Qui i due commemorano la vicenda, riflettendo sulla morte, sulle responsabilità dell'accaduto e sul futuro della coppia, in particolare sui due bambini.
