@@ -75,7 +75,7 @@
  * [Destino Immutabile](./Parte5/65_destino_immutabile.md)
  * [Chiedere scusa](./Parte5/66_chiedere_scusa.md)
  * [Il legame, parte prima](./Parte5/67_il_legame_parte_prima.md)
- * [Il legame, parte seconda](./Parte5/67_il_legame_parte_seconda.md)
+ * [Il legame, parte seconda](./Parte5/68_il_legame_parte_seconda.md)
  
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
