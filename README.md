@@ -55,7 +55,7 @@
  * [Tra di noi](./Parte5/45_tra_di_noi.md)
  * [Un sacrificio necessario?](./Parte5/46_un_sacrificio_necessario.md)
  * [Il ricettacolo](./Parte5/47_il_ricettacolo.md)
- * [Vecchi legami](./Parte5/48_vecchi_legami.md)
+ * [Vecchie conoscenze](./Parte5/48_vecchie_conoscenze.md)
  * [Passati dimenticati](./Parte5/49_passati_dimenticati.md)
  * [Preparativi al rito](./Parte5/50_preparativi_al_rito.md)
  * [15, dov'è finita 17?](./Parte5/51_15_dov_e_finita_17.md)
@@ -74,6 +74,8 @@
  * [Abbracci](./Parte5/64_abbracci.md)
  * [Destino Immutabile](./Parte5/65_destino_immutabile.md)
  * [Chiedere scusa](./Parte5/66_chiedere_scusa.md)
+ * [Il legame, parte prima](./Parte5/67_il_legame_parte_prima.md)
+ 
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
  * [Freimaurerei](./Schede/Freimaurerei.txt)
