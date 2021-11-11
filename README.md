@@ -8,7 +8,7 @@
  * [Verso la Vrata](./Parte2/04_verso_la_vrata.md)
  * [Season 2 recap](./Parte2/05_season_2_recap.md)
  
- ## Parte 3
+## Parte 3
  * [Season 3, info](./Parte3/06_season_3_info.md)
  * [Sospetto](./Parte3/07_sospetto.md)
  * [Nella sede dei Mist](./Parte3/08_nella_sede_dei_mist.md)
@@ -24,7 +24,7 @@
  * [Gusti particolari](./Parte3/18_gusti_particolari.md)
  * [L'assalto, intermezzo](./Parte3/19_l_assalto_intermezzo.md)
 
- ## Parte 4
+## Parte 4
  * [Siamo dei coglioni](./Parte4/20_siamo_dei_coglioni.md)
  * [Death Stranding](./Parte4/21_death_stranding.md)
  * [Death Stranding 2](./Parte4/22_death_stranding_2.md)
@@ -50,7 +50,7 @@
  * [Un brutto presentimento](./Parte4/42_un_brutto_presagio.md)
  * [Sette secondi prima della fine](./Parte4/43_sette_secondi_prima_della_fine.md)
 
- ## Parte 5
+## Parte 5
  * [Un'amara riunione](./Parte5/44_un_amara_riunione.md)
  * [Tra di noi](./Parte5/45_tra_di_noi.md)
  * [Un sacrificio necessario?](./Parte5/46_un_sacrificio_necessario.md)
@@ -76,6 +76,9 @@
  * [Chiedere scusa](./Parte5/66_chiedere_scusa.md)
  * [Il legame, parte prima](./Parte5/67_il_legame_parte_prima.md)
  * [Il legame, parte seconda](./Parte5/68_il_legame_parte_seconda.md)
+
+## Parte 6
+ * [Fuori dalla cisterna](./Parte6/75_fuori_dalla_cisterna.md)
  
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
