@@ -15,6 +15,11 @@ Alias:  Carlo Roveni, Teophrastus Iota, Jet Black, Jeff Jeffinson
 | SAG | 20 | +5 |
 | CAR | 25 | +7 |
 
+### Abilità mentale
+ * Cinque utilizzi
+ * Avanti o indietro
+ * Il bobino garantisce il successo
+
 ### Bonus e tiri
 Occhio bobino: +10 al modificatore sui tiri per osservare
 
