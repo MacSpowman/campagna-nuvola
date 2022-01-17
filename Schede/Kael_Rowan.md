@@ -15,7 +15,7 @@ Alias:  Carlo Roveni, Teophrastus Iota, Jet Black, Jeff Jeffinson
 | SAG | 20 | +5 |
 | CAR | 25 | +7 |
 
-### Abilit√† mentale
+### Abilit‡† mentale
  * Cinque utilizzi
  * Avanti o indietro
  * Il bobino garantisce il successo
@@ -81,7 +81,7 @@ Gettoni: 10
 
 * Frammenti di glacies: 0
 * Pezzi di glacies medi: 0	
-* Pezzi di glacies: 4
+* Pezzi di glacies: 5
 * 1 pezzo di glacies rosso	(Doppiofondo del cassetto)
 
 ## Vecchio inventario 
