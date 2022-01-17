@@ -79,7 +79,12 @@
 
 ## Parte 6
  * [Fuori dalla cisterna](./Parte6/75_fuori_dalla_cisterna.md)
- 
+ * ...
+ * [I cinque eredi](./Parte6/76_i_cinque_eredi.md)
+ * [Il Braccio della Morte](./Parte6/77_il_braccio_della_morte.md)
+ * ...
+ * [Aria di cambiamento](./Parte6/temp_aria_di_cambiamento.md)
+
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
  * [Freimaurerei](./Schede/Freimaurerei.txt)
