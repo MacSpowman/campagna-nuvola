@@ -83,7 +83,8 @@
  * [I cinque eredi](./Parte6/76_i_cinque_eredi.md)
  * [Il Braccio della Morte](./Parte6/77_il_braccio_della_morte.md)
  * ...
- * [Aria di cambiamento](./Parte6/temp_aria_di_cambiamento.md)
+ * [Aria di cambiamento](./Parte6/temp01_aria_di_cambiamento.md)
+ * [Tutte quelle vite](./Parte6/temp02_tutte_quelle_vite.md)
 
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
