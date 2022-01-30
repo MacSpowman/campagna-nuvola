@@ -1,11 +1,18 @@
 # ARIA DI CAMBIAMENTO
 
 Kael come prima cosa si dirige verso Aeria e bussa alla sua porta.
-> "Sei tornato! Non hai idea di quanto ti ho aspettato!"
-I due si abbracciano ed entrano.
 
-Kael racconta le cose e chiede ad Aeria come sta
-Aeria fredda e stanca di fare il pirata, va a parlare un'ultima volta con Garrett.
+Aeria apre la porta a Kael appena lo riconosce e lo abbraccia. La Magis, ignara di ciò che sia successo sul ponte, gli chiede cosa sia successo sulla Tesz. Vedendo il partner sconvolto, lo invita ad accomodarsi. Kael inizia a raccontare del recupero di Garrett, dell'omicidio di Gallia e del nefasto avvenimento al loro rientro, non prima di aver tentennato per la situazione difficile. Esposti i dubbi sulla natura delle gesta di Stjena, Aeria resta molto irritata dal gesto del capitano dei GEARS, sottolineando come senza Garrett i pirati siano persi, in quanto il vice si occupava silenziosamente di molti più incarichi di quanto si potesse immaginare e decide di andare a parlarle. Kael si dimostra contrario, ascrivendo le sue motivazioni alla tensione dell'equipaggio, ma la ragazza non vuole saperne. Quando Kael le chiede cos'è successo in sua assenza sulla nave, nota delle bruciature sulle braccia di Aeria.
+
+> "È stato molto difficile. Quando sono arrivati sul ponte c'eravamo io, Harribel e i bambini. Stavo allenando Eva e Lynn e temo che le abbiano viste. Ora sono al sicuro e stanno bene, ma non so dove siano fisicamente. Almeno hanno imparato a impugnare un'arma, ma l'allenamento non è ancora completo."
+
+Alla notizia della fuga di Noah, Aeria, in totale confidenzialità, chiede se anche lui pensa che Mia stia perdendo il controllo, trovando una conferma e gli confessa di rimpiangere il lavoro con Gustaph. Aeria conferma inoltre che il Monarca non ha più il controllo sul Guerriero Rosso, motivo per cui se ne sono andati senza concludere nulla: il ragazzo ha la pelle in decomposizione, mentre la creatura runica ha certamente riacquistato la vista, attaccando con maggiore precisione.
+
+La ragazza chiude la conversazione dichiarando l'urgenza di capire ciò che è successo e di prendere delle decisioni sul futuro, senza perdere un attimo, perché secondo lei il tempo a loro disposizione sta giungendo al termine. La coppia si racconta nei propri momenti di debolezza, lasciandosi con il proposito di non dare tutto per scontato. Aeria, lamentando che il tempo passato da sola non è ciò che sperava, lascia Kael con la considerazione che nessuno dei due è fatto per essere un pirata.
+
+> "Ancora per poco."
+
+La ragazza rifiuta l'aiuto di Kael per la guarigione delle ferite e nota che qualcosa in Kael è cambiato, ma rifiuta la sua compagnia per un ultimo saluto a Garrett dopo che apprende che Kael ha ucciso Tullius.
 
 Mentre Al e Mia si abbracciano, qualcuno bussa alla porta: sono Rick e 12. Il fratello di Alphonse chiede all'Indomito di restare fuori, non prima che Al gli faccia il saluto militare e quest'ultimo ricambi.
 
