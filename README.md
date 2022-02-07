@@ -85,6 +85,7 @@
  * ...
  * [Aria di cambiamento](./Parte6/temp01_aria_di_cambiamento.md)
  * [Tutte quelle vite](./Parte6/temp02_tutte_quelle_vite.md)
+ * [Il giorno prima della grande missione](./Parte6/temp03_il_giorno_prima_della_grande_missione.md)
 
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
