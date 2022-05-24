@@ -4,7 +4,7 @@ Alias:  Carlo Roveni, Teophrastus Iota, Jet Black, Jeff Jeffinson
 ## STATISTICHE
  * Razza:	Magis
  * Livello: 20
- * HP massimi: 147
+ * HP massimi: 160
 
 | | | |
 |-|-|-|
