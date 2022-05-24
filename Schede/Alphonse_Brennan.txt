@@ -3,29 +3,29 @@ Chiedere al capitano della wrata dei veleni(CHIESTO E DA AGGIORNARE)
 
 Biglietto genitori di michael
 
-Posso rigenerarmi ferendomi alla mano e chiedendo a Mia di ordinarmi di rigenerarmi il taglio almeno finchè non si stanca
+Posso rigenerarmi ferendomi alla mano e chiedendo a Mia di ordinarmi di rigenerarmi il taglio almeno finchÃ¨ non si stanca
 Rispondere alle accuse di Harribel con il potere della finzione.
 
 Pier (Alphonse Brennan) Dian Pure neutral Scout
-LV 14       
-HP 166
+LV 19
+HP 186
 (3 base  +5mod +3 per 1,5)
-For  22   6 
-Des  30   9 
-Cos  26   16
-Int  28   9
-Sag  22   18
-Car  26   18 +7 con Mia
-
+|:---|-----|---:|
+|For | 26  | 7  |
+|Des | 32  | 11 |
+|Cos | 28  | 9  |
+|Int | 26  | 8  |
+|Sag | 24  | 7  |
+|Car | 27  | 8  |
 
 
 Ho la carica atomica della dell'armatura in canna
-In momenti legati alla runa posso parlare con la madre che è collegata a me
+In momenti legati alla runa posso parlare con la madre che Ã¨ collegata a me
 Tranne per l'1 posso individuare il drago e in certe occasioni parlarci
 8$
 Oggetti
 armatura esercito(yomi)
-  più movimento
+  piÃ¹ movimento
   resistenza(riduzione danni)
 
 Pistola della ragazza
