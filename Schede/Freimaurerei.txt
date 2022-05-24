@@ -1,5 +1,5 @@
 #ABIG_AI_L : FREI_STATS current-version(1.0.a_LIVE)#
-	#LF_POINTS   288/288
+	#LF_POINTS   318
 	#BANK   100 CREDITS
 
 	#CURRENT_NAME: Freimaurerei Rett
@@ -11,10 +11,10 @@
 
 	#MOTTO:
 
-	#LVL   18
+	#LVL   19
 
 	#FOR   30 + 10
-	#DES   18 + 4
+	#DES   19 + 4
 	#COS   34 + 12
 	#INT   18 + 4
 	#SAG   22 + 6
@@ -24,7 +24,6 @@
 	Tenere al sicuro la famiglia
 	Formare gli Arditi
 	Trovare un posto per la sepoltura di papà
-	Parlare con la presunta Sun
 	Ammazzare Belial
 	
 #ABIG_AI_L : BRAIN_BACKUP#
@@ -321,17 +320,14 @@
 	#END CHAT $USER <-> $ABIG_AI_L --FORCE
 	
 #ABIG_AI_L : FREI_INVENTORY current-version(1.0.a_LIVE)#
-	giacca   equip
 	vestiti un po' meno garbati   equip  
 	CANNONE PROTONICO DEL NO 6667
-		4 COLPI  
-		1D20 x COLPO
+		8 COLPI  
+		1D20 x COLPO massimo due caricati
 	zaino grande   equip
 		braccio meccanico
 		contagocce di veleno velenoso
-		- (lancia di glacies)  
-			1D8 + FOR 2MANI
-		- (spada del generale della Prinz)
+		- spada del generale della Prinz
 			1D8 + FOR
 		maschera di 01
 		foto di mia madre
@@ -339,5 +335,6 @@
 	radiocomm
 	armatura simbionte runica   equip
 		anti-glacies: distrugge armi bianche al contatto, proiettili(?)
-	spadone del consigliere
-		1D20 + FOR
+	spadone del consigliere equip
+		1D20 + FOR normale
+		1D20 onda d'urto
