@@ -3,37 +3,36 @@ Alias:  Carlo Roveni, Teophrastus Iota, Jet Black, Jeff Jeffinson
 
 ## STATISTICHE
  * Razza:	Magis
- * Livello: 19
+ * Livello: 20
  * HP massimi: 147
 
 | | | |
 |-|-|-|
 | FOR | 18 | +4 |
-| DES | 24 | +7 |
+| DES | 26 | +8 |
 | COS | 28 | +9 |
-| INT | 24 | +7 |
+| INT | 26 | +8 |
 | SAG | 20 | +5 |
 | CAR | 25 | +7 |
 
-### Abilit� mentale
+### Abilità  mentale
  * Cinque utilizzi
  * Avanti o indietro
- * Il bobino garantisce il successo
+ * Il bobino garantisce il successo (non attivo)
 
 ### Bonus e tiri
-Occhio bobino: +10 al modificatore sui tiri per osservare
+* Occhio bobino (non più attivo): +10 al modificatore sui tiri per osservare
+* Livello 20: Armi al glacies più efficienti, ogni utilizzo richiede un'unità di glacies in meno con un minimo di 1
 
 CA PER IL CIFRARIO: 8 (1d20+SAG)
 
 ## EQUIPAGGIAMENTO
-* Arco di glacies			1d8+7 (DEX)
+* Arco di glacies			1d8+8 (DEX)
 * Coppia di spade corte trasformabili
     * Spente: 				1d6 ciascuna
-    * Trasformate:			1d20+7 (DEX)
+    * Trasformate:			1d20+8 (DEX)
 * Balthazar (moschetto) 20 colpi	1d4 per colpo
     * Lama	 			1d4
-
-
 
 * Maglietta di Noah: PERK: ODORA DI UOMO
 * Canottiera nera e gialla: +1 su DES se 1d20 = 1 o 2
@@ -47,7 +46,7 @@ CA PER IL CIFRARIO: 8 (1d20+SAG)
 * Occhio meccanico migliorato:
 	* Rilevatore di movimento dentro la pupilla
 	(rileva quando la pupilla è chiusa e quando è aperta)
-	Sbattere le palpebre permette di cambiare modalit� dell'occhio
+	Sbattere le palpebre permette di cambiare modalità dell'occhio
 	* Adattabile come quello attuale
 	* NO visione al buio
 	* 1d6 per cambiare funzione
@@ -57,7 +56,7 @@ CA PER IL CIFRARIO: 8 (1d20+SAG)
 		3. visione notturna
 		4. viene controllato neuralmente tenendosi collegato alla testa con un piccolo cavo e muovendosi nello spazio al di fuori dell'orbita
 		5. corto circuito. 1d4 di danni.
-		6. ti permette di osservare gli organi interni delle persone. nessun tiro costituzione necessario quando si vuole agire su una persona con l'abilit� mentale. 20 garantito.
+		6. ti permette di osservare gli organi interni delle persone. nessun tiro costituzione necessario quando si vuole agire su una persona con l'abilitï¿½ mentale. 20 garantito.
 
 
 * Occhio meccanico:
