@@ -1,4 +1,4 @@
-#CARO SLEEB, TI SCRIVO
+# CARO SLEEB, TI SCRIVO
 
 Il corpo di Mia svanisce tra le braccia di Kael, che si ritrova in mano la sua pistola ed un pda protetto da una password, che reca dietro il codice di sblocco. Nessuno capisce veramente cosa stia accadendo, tutti sono confusi, chi si trovava di fronte a Kael ora è in ginocchio. Il Magis, guardandosi intorno, vede l'armatura di Alphonse stesa a terra e quest'ultimo che respira, ma che non sembra essere cosciente: decide così di fare un bel respiro per cercare di tenere un minimo di contegno e si accorge che il drago è in movimento verso una destinazione ignota, con loro al suo interno. Il movimento fa sì che la struttura sferica in cui si trova l'equipaggio si sposti. Kael sospira di nuovo e dice che per il momento non è il momento di piangere.
 
