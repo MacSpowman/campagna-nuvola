@@ -21,11 +21,11 @@ Al sente il passo elegante di Parnassus che lo sta raggiungendo. Il padre approv
 
 Kael si risveglia su un letto, con il suo omonimo maggiordomo che gli porta una tazza di tè e gli spiega che l'atterraggio del drago gli ha causato uno svenimento e che ha dormito per sette ore, per poi andare a dare la notizia del risveglio a una persona che aveva chiesto di lui. In sua assenza, Kael sblocca il palmare di Mia usando il codice sul retro: al suo interno c'è una sola cartella con un file di testo chiamato "Randall".
 
-> Mio caro Garrett, mio caro Mirius,
+> Mio caro Garrett, mio caro Mirius,\
 > Ho scoperto qualcosa che dovete tenere nascosto a Mia più tempo possibile. Entrambi sapete quando sarà il momento di mostrarglielo. Nel momento in cui lei seguirà il suo destino e farà ciò che vi ho spiegato io vorrei per lei, questo è ciò che le permetterà di raggiungere l'apice e di guidare l'intera Nuvola nel posto giusto. Grazie a questo, alle indicazioni che qui vi riporto, voglio che mia figlia riveli a tutti la grande menzogna che si nasconde dietro i Naga.
-> Per trovare ciò che le serve e dimostrare a tutti quanti di avere ragione, è necessario che si rechi sulla Prinz ed entri nella sala che io allego nella mappa di questo file. Lì, all'interno, vi troverà una stanza. Non so come accedervi, ma ciò che è contenuto lì dentro salverà i Naga, tutto ciò che hanno creato e rivelerà in modo concreto che finora ci si è affidati solalmente ciecamente a qualcuno che ha perseguito i suoi unici obiettivi. Quel qualcuno, naturalmente, dà il nome a questo file.
-> Fate in modo che Mia non lo riveli a nessuno. Proteggetela a costo della vita.
->
+> Per trovare ciò che le serve e dimostrare a tutti quanti di avere ragione, è necessario che si rechi sulla Prinz ed entri nella sala che io allego nella mappa di questo file. Lì, all'interno, vi troverà una stanza. Non so come accedervi, ma ciò che è contenuto lì dentro salverà i Naga, tutto ciò che hanno creato e rivelerà in modo concreto che finora ci si è affidati solalmente ciecamente a qualcuno che ha perseguito i suoi unici obiettivi. Quel qualcuno, naturalmente, dà il nome a questo file.\
+> Fate in modo che Mia non lo riveli a nessuno. Proteggetela a costo della vita.\
+>\
 > Callisto
 
 La mappa contiene una struttura della Prinz che Kael non riconosce.
