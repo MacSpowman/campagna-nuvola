@@ -89,7 +89,9 @@
  * [La missione "Ultimo senso (missing)]()
  * [Combattimento all'interno del drago (missing)]()
  * [Caro Sleeb, ti scrivo](./Parte6/temp05_caro_sleeb_ti_scrivo.md)
-
+ * ...
+ * [Faust](./Parte6/temp08_faust.md)
+ 
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
  * [Freimaurerei](./Schede/Freimaurerei.txt)
