@@ -86,7 +86,7 @@
  * [Fuori dalla cisterna](./Parte6/75_fuori_dalla_cisterna.md)
  * [I cinque eredi](./Parte6/76_i_cinque_eredi.md)
  * [Il Braccio della Morte](./Parte6/77_il_braccio_della_morte.md)
- * [L'asssassino di capitani)(./Parte6/78_l_assassino_di_capitani.md)
+ * [L'asssassino di capitani](./Parte6/78_l_assassino_di_capitani.md)
  * [Esecuzione](./Parte6/79_esecuzione.md)
  * [Aria di cambiamento](./Parte6/80_aria_di_cambiamento.md)
  PROMEMORIA: SHIFT DEI NUMERI
