@@ -1,4 +1,4 @@
-# Fuori dalla cisterna
+# FUORI DALLA CISTERNA
 
 Mia attira l'attenzione del generale della Tesz verso la bomba piazzata dall'Erede, ma l'urlo non fa altro che distrarlo, facendolo cadere nella trappola. Vedendo il modo in cui il generale viene ferito, Frei non esita a lanciarsi nell'azione contro l'Erede usando la spada dei Mist, ma il generale lo ferma, invitandolo a un duello leale. Porter riconosce il generale e nuovamente quest'ultimo viene distratto. Frei acconsente, ma in seguito alla svista, si frappone fra i due.
 
