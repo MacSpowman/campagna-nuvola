@@ -1,4 +1,4 @@
-# FAUST (SECONDA PARTE)
+# FAUST, PARTE SECONDA
 
 Lasciata Vanya nella sua stanza in compagnia di Electric Sheep, il gruppo si separa: Al si dirige verso Rick, mentre Kael per prima cosa va a cercare Aeria. 
 
