@@ -78,19 +78,27 @@
  * [Il legame, parte seconda](./Parte5/68_il_legame_parte_seconda.md)
 
 ## Parte 6
+ * [Prima, parte prima](./Parte6/69_prisma_parte_prima.md)
+ * [Prima, parte seconda](./Parte6/70_prisma_parte_seconda.md)
+ * [Rientro dalla Tesz](./Parte6/72_riento_dalla_tesz.md)
+ * [Preparativi per la partenza](./Parte6/73_preparativi_per_la_partenza.md)
+ * [La cisterna](./Parte6/74_la_cisterna.md)
  * [Fuori dalla cisterna](./Parte6/75_fuori_dalla_cisterna.md)
- * ...
  * [I cinque eredi](./Parte6/76_i_cinque_eredi.md)
  * [Il Braccio della Morte](./Parte6/77_il_braccio_della_morte.md)
- * ...
- * [Aria di cambiamento](./Parte6/temp01_aria_di_cambiamento.md)
- * [Tutte quelle vite](./Parte6/temp02_tutte_quelle_vite.md)
- * [Il giorno prima della grande missione](./Parte6/temp03_il_giorno_prima_della_grande_missione.md)
- * [La missione "Ultimo senso (missing)]()
- * [Combattimento all'interno del drago (missing)]()
- * [Caro Sleeb, ti scrivo](./Parte6/temp05_caro_sleeb_ti_scrivo.md)
- * ...
- * [Faust](./Parte6/temp08_faust.md)
+ * [L'asssassino di capitani)(./Parte6/78_l_assassino_di_capitani.md)
+ * [Esecuzione](./Parte6/79_esecuzione.md)
+ * [Aria di cambiamento](./Parte6/80_aria_di_cambiamento.md)
+ PROMEMORIA: SHIFT DEI NUMERI
+ * [Tutte quelle vite](./Parte6/80_tutte_quelle_vite.md)
+ * [Il giorno prima della grande missione](./Parte6/81_il_giorno_prima_della_grande_missione.md)
+ * [Randall](./Parte6/82_randall.md)
+ * [Finché morte non vi separi](./Parte6/83_finche_morte_non_vi_separi.md)
+ * [Caro Sleeb, ti scrivo](./Parte6/84_caro_sleeb_ti_scrivo.md)
+ * [Il ritorno di Frei](./Parte6/85_il_ritorno_di_frei.md)
+ * [Il veggente](./Parte6/86_il_veggente.md)
+ * [Faust, parte prima](./Parte6/87_faust_parte_prima.md)
+ * [Faust, parte seconda](./Parte6/87_faust_parte_seconda.md)
  
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
