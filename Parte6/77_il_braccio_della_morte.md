@@ -1,4 +1,4 @@
-# NEL BRACCIO DELLA MORTE
+# IL BRACCIO DELLA MORTE
 
 Due frecce normali, due ignote (diverse), due esplosive
 
