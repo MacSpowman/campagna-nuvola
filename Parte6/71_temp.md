@@ -1,4 +1,4 @@
-#
+# sessione tra gli eredi e la fuga dalla tesz
 
 Pegasus è ancora sofferente nonostante le cure di Kael e Alphonse se ne accorge, così lo chiede a Mia che non risponde, soprattutto vedendo la spada di Noah insanguinata. Mia lo guarda stranita.
 
