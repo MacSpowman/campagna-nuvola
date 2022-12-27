@@ -1,4 +1,4 @@
-# FAUST (PRIMA PARTE)
+# FAUST, PARTE PRIMA
 
 Parnassus si lascia con i tre dell'apocalisse, raccomandandosi di non fare altre fesserie ed essere prelevati Frei si vuole occupare della faccenda Atlas, anche perché aveva inviato Harribel a prelevarlo, Al gli dice di aspettare un momento per andare insieme.
 Al chiede a Parnassus come/dove incontrarlo ma Parnassus lo ferma dicendo che sarebbe meglio per il piano di non sentirsi tramite radio e farsi vedere sempre a parlare di persona, in modo da non suscitare sospetti nella nuova alleanza che sta portando avanti per il bene dei Gears (vabbè lo sappiamo, non c'è bisogno di puntualizzare), deve superare in astuzia Bora. Frei si ricorda di aver sentito il nome di Bora quando, alla base di Bradley, vide nei documenti che era una dei contatti di suo padre biologico.
