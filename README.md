@@ -98,7 +98,7 @@
  * [Il ritorno di Frei](./Parte6/85_il_ritorno_di_frei.md)
  * [Il veggente](./Parte6/86_il_veggente.md)
  * [Faust, parte prima](./Parte6/87_faust_parte_prima.md)
- * [Faust, parte seconda](./Parte6/87_faust_parte_seconda.md)
+ * [Faust, parte seconda](./Parte6/88_faust_parte_seconda.md)
  
 ## Schede dei personaggi
  * [Alphonse Brennan](./Schede/Alphonse_Brennan.txt)
