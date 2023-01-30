@@ -90,7 +90,7 @@ Gettoni: 10
 | Bambolina soprammobile	| Stanza GEARS |
 | Abito di ricambio 		| Stanza GEARS |
 | Foto del contatto (Henry) | Stanza GEARS |
-| Foto della ragazza (Mia)	| Stanza GEARS |
+| Foto della ragazza (Mia)	| Data ad Al |
 | Libro della pesca			| Stanza GEARS |
 | Fogli dello studio Naga	| Stanza GEARS |
 | Rottami del casco			| Stanza GEARS |
